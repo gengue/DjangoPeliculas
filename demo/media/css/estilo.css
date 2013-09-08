@@ -1,0 +1,29 @@
+body
+{
+	background-color: #fff6f1;
+	font-family: "Helvetica", Arial;	
+}
+header
+{
+	text-align: center;
+}
+article
+{
+	text-align: center;
+	border-radius: 136px 41px 138px 41px;
+	-moz-border-radius: 136px 41px 138px 41px;
+	-webkit-border-radius: 136px 41px 138px 41px;
+	border: 3px outset #000000;
+}
+a
+{
+	color:#e44e2d;
+	font-weight: bold;
+}
+h1{
+	color: #e44e2d;	
+}
+
+
+
+
